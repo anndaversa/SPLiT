@@ -1,5 +1,5 @@
 # SPLiT
-This is the implementation of the method proposed in the paper A. D'Aversa, G. Pio, M. Ceci, "Leveraging Spatio-Temporal Locality in Linear Model Trees for Multi-Step Time Series Forecasting", IEEE International Conference on Big Data, 2024. 
+This is the implementation of the method proposed in the paper A. D'Aversa, G. Pio, M. Ceci, "Leveraging Spatio-Temporal Locality in Linear Model Trees for Multi-Step Time Series Forecasting", IEEE International Conference on Big Data, 2024. 10.1109/BigData62323.2024.10826062 
 
 ## Requirements
 The model is implemented using Python3 with dependencies specified in requirements.txt
